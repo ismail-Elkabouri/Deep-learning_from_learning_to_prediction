@@ -8,7 +8,8 @@ This document provides a curated list of free online books, courses, video lectu
 1. [Deep Learning by Yoshua Bengio, Ian Goodfellow, and Aaron Courville](https://www.deeplearningbook.org/) (01/01/2015)  
 2. [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/) (Dec 2014)  
 3. [Deep Learning by Microsoft Research](https://www.microsoft.com/en-us/research/publication/deep-learning/) (2013)  
-4. [Deep Learning Tutorial by LISA lab, University of Montreal](https://deeplearning.net/tutorial/) (Jan 6 2015)  
+4. [Deep Learning Tutorial by LISA lab, University of Montreal](https://deeplearning.net/tutorial/) (Jan 6 2015) 
+5. [Deep Learning MIT press book](https://www.deeplearningbook.org/)
 
 ---
 
